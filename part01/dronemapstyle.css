@@ -1,0 +1,33 @@
+
+.note-success {
+    border-color: #5cb85c;
+    background: #dff0d8;
+}
+
+.note {
+    margin: 0 0 20px 0;
+    padding: 15px 30px 15px 15px;
+    border-left: 3px solid #5cb85c;
+    border-radius: 0 !important;
+}
+
+.note-success .box-heading {
+  color: #5cb85c;
+}
+.box-heading {
+  font-weight: bold;
+  font-family: 'Oswald';
+  margin-bottom: 15px;
+}
+
+body{
+	font-family: 'Open Sans', sans-serif;
+}
+h2{
+	font-family: 'Oswald';
+	font-size: 1.5em;
+	font-style: normal;
+	font-weight: 100;
+}
+
+
